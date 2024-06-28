@@ -1,0 +1,15 @@
+# TODO: Update with exact module version
+numpy
+opencv_python==4.6.0.66
+loguru
+tqdm
+thop
+ninja
+tabulate
+psutil
+tensorboard
+pycocotools
+paddlepaddle==2.6.1
+paddleocr==2.7.0.1
+python-magic
+
