@@ -9,7 +9,7 @@
 ## Usage
 
 1. **Clone the repository**:
-    - git clone https://github.com/Suhlaing557/cars-license-plate-detection.git
+    - git clone git@github.com:Suhlaing557/cars-license-plate-detection.git
     - cd cars-license-plate-detection
    
 2.  **Edit the 'run_docker.sh' script**:
